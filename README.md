@@ -16,7 +16,7 @@ Elaborado por Iván Santiago Molina Ascanio        Full stack Developer
   
 -Pasos escenciales
     usted dispondra de un usuario administrador para el login con número de documento:1005838571 y clave:ivan12345678
-    usted dispondra total acceso y control del sistema y  asi mismo podra crear usuarios deslogeandose y volviendose a loguear y luego les asignara un rol correspondiente en la pestalla  de usuarios  con  icono de una personita.
+    usted dispondra total acceso y control del sistema y  asi mismo podra crear usuarios deslogeandose y usar el formulario de registro y volviendose a loguear y luego les asignara un rol correspondiente en la pestalla  de usuarios  con  icono de una personita.
     
     Podra asignar 3 tipos de rol: administrador,cliente y proveedor cada uno tiene restricción de contenido
     
