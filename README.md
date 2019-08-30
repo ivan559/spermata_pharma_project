@@ -27,7 +27,7 @@ Elaborado por Iván Santiago Molina Ascanio        Full stack Developer
 - El proyecto debe descargarlo del repositorio y colocarlo en la carpeta de su servidor local preferido
  
  
- -Si cuenta con una terminar sea en linux o windows dirigace al proyecto 
+ -Si cuenta con una terminar sea en linux o windows dirijase al proyecto 
  y ejecute el comando
  
  
